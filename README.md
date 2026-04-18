@@ -17,6 +17,7 @@ Frontend: React
 Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
+
 ⚙️ Key Highlights
 🔹 Built with the MERN Stack for full-stack scalability
 🔹 Secure authentication and protected routes
@@ -24,7 +25,7 @@ Authentication: JWT (JSON Web Tokens)
 🔹 Component-based architecture for maintainability
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/kido19/Orbital-CRM.git
+git clone htttps://github.com/kido19/FUTURE_FS_02
 cd Orbital-CRM
 2. Install dependencies
 # Install server dependencies
